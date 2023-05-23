@@ -2,9 +2,6 @@
 
 face_recognition_authentication_flutter project has "main.dart" as Entry Point.
 
-- [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
-- [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
-- [Drop me your message](https://twitter.com/khandla20)
 
 
 
